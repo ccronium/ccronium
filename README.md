@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h4 align="center"><samp>I : cronium, am a 14 year old aspiring coder and developer i am as of now [6/8/23] highly skilled in python & lua and mid skilled in html & css and learning c++ I aspire to be a software / website designer and coder, it would mean alot if you supported me    
+  <h4 align="center"><samp>Myself cronium, am a 14 year old aspiring coder and developer i am as of now [6/8/23] highly skilled in python & lua and mid skilled in html & css and learning c++ I aspire to be a software / website designer and coder, it would mean alot if you supported me    
  ~ cronium <3</samp></h4>
 </div>
 
